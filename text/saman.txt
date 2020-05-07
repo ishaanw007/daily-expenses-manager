@@ -1,0 +1,25 @@
+
+
+                                                       PLEASE SELECT THE SERIAL NUMBER TO ADD PRODUCTS
+
+                                                               |Srno. | Grocery   | Price  |
+                                                               |1     | Pen       | Rs70   |
+                                                               |2     | Apple     | Rs120  |
+                                                               |3     | Banana    | Rs60   |
+                                                               |4     | Notebook  | Rs80   |
+                                                               |5     | Lichi     | Rs65   |
+                                                               |6     | Earphones | Rs400  |  
+                                                               |7     | Pencil    | Rs20   |
+                                                               |8     | Speaker   | Rs500  |
+                                                               |9     | Orange    | Rs40   |
+                                                               |10    | Earbuds   | Rs120  |
+                                                               |11    | Battery   | Rs600  |
+                                                               |12    | Watch     | Rs1500 |
+                                                               |13    | Charger   | Rs200  |
+                                                               |14    | Mouse     | Rs699  |
+                                                               |15    | Kiwi      | Rs40   |
+                                                               |16    | Cherry    | Rs60   |
+                                                               |17    | Avocado   | Rs70   |
+                                                               |18    | Games     | Rs150  |
+                                                               |19    | Phone     | Rs13999|
+                                                               |20    | Apricots  | Rs299  |
