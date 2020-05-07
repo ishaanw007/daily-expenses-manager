@@ -1,6 +1,0 @@
-1. |Pen       |rs70    |
-2. |apple     |rs120   |
-3. |banana    |rs60    |
-4. |notebook  |rs80    |
-5. |lichi     |rs65    |
-6. |earphone  |rs400   |

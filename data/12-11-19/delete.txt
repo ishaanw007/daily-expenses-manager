@@ -1,3 +1,0 @@
-7. |pencil    |rs20    |
-8. |speaker   |rs500   |
-9. |orange    |rs40    |
